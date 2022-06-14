@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering in University of California San Diego, advised by [Professor Xinyu Zhang](http://xyzhang.ucsd.edu). I received my B.E. in Internet of Things engineering in 2018 from Beijing University of Posts and Telecommunications [(BUPT)](https://english.bupt.edu.cn), where I also worked as a research intern with [Professor Anfu Zhou](https://scs.bupt.edu.cn/info/1100/2285.htm).
+I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering in University of California San Diego, advised by [Professor Xinyu Zhang](http://xyzhang.ucsd.edu). I received my B.E. in Internet of Things engineering in 2018 from Beijing University of Posts and Telecommunications [(BUPT)](https://english.bupt.edu.cn), where I also worked as a research intern with [Professor Anfu Zhou](https://scs.bupt.edu.cn/info/1100/2285.htm).
 
 My research interests lie in mobile computing and wireless networking, with focus on 5G edge-assisted AI/ML and millimeter-wave networking.
 
@@ -26,7 +26,10 @@ Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Cov
 
 Experience
 ======
-Sony Corporation Tokyo (Collaboration, 9/2020-Present)  
+Microsoft Research (Internship, 6/2022-Present)
+Advised by Dr. Manikanta Kotaru
+
+Sony Corporation Tokyo (Collaboration, 9/2020-5/2022)  
 Advised by Mr. Hiromasa Uchiyama  
 
 AT&T Research (Internship, 7/2019-9/2019)  
