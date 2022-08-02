@@ -26,7 +26,7 @@ Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Cov
 
 Experience
 ======
-Microsoft Research (Internship, 6/2022-Present)  
+Microsoft, the Office of the CTO team in Azure for Operators (AFO OCTO) (Internship, 6/2022-Present)  
 Advised by Dr. Manikanta Kotaru
 
 Sony Corporation Tokyo (Collaboration, 9/2020-5/2022)  
