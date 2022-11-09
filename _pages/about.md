@@ -27,17 +27,17 @@ Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Cov
 Experience
 ======
 Microsoft, the Office of the CTO team in Azure for Operators (AFO OCTO) (Internship, 6/2022-Present)  
-Advised by Dr. Manikanta Kotaru
+Advised by Manikanta Kotaru Xenofon Faukas
 
 Sony Corporation Tokyo (Collaboration, 9/2020-5/2022)  
-Advised by Mr. Hiromasa Uchiyama  
+Advised by Hiromasa Uchiyama  
 
 AT&T Research (Internship, 7/2019-9/2019)  
-Advised by Dr. Jin Wang  
+Advised by Jin Wang  
 
 Publication
 ======
-**NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
+**NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**([PDF](http://sowang46.github.io/files/NeuroMessenger.pdf))   
 **S. Wang**, X. Zhang  
 IEEE International Conference on Computer Communications 2022 (INFOCOM'22) 
 
@@ -72,4 +72,4 @@ IEEE International Conference on Communications 2018 Wireless Networking Symposi
 
 CV
 =====
-[CV (PDF)](http://sowang46.github.io/files/CV_202102.pdf)
+[CV (PDF)](http://sowang46.github.io/files/CV_202211.pdf)
