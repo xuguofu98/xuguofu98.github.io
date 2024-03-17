@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+  }
+</style>
+
 ## Biography
 Hi! I am a first-year Ph.D. student in the Department of Electrical and Computer Engineering at Stony Brook University. Before that, I received an M.E. degree in Electrical Engineering from Southwest Jiaotong University in 2023 and a B.E. degree in Electrical Engineering and Automation from University of Shanghai for Science and Technology in 2020. Currently, my research interest mainly lies in machine learning for power systems.
 
