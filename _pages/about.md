@@ -10,7 +10,7 @@ redirect_from:
 <style>
   body {
     font-family: Georgia, serif;
-    font-size: 14px;
+    font-size: 16px;
   }
 </style>
 
