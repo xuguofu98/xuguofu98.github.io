@@ -22,7 +22,7 @@ Hi! I am a first-year Ph.D. student in the Department of Electrical and Computer
 - 02/2024 I have been invited to serve as a reviewer of IEEE Journal of Oceanic Engineering.
 - 01/2024 I have been invited to serve as a reviewer of IEEE Transactions on Power Systems.
 - 10/2023 I have been invited to serve as a reviewer of IEEE ACCESS.
-- 08/2023 I joined Power Lab at Stony Brook University as a Ph.D. student, advised by Prof. Yifan Zhou.
+- 08/2023 I joined the Power Lab at Stony Brook University as a Ph.D. student, advised by Prof. Yifan Zhou.
 
 ## Publications
 - **X. Fu**, Y. Zhou, "Learning-Based Uncertain Dynamic Verification of MMC-HVDC Offshore Wind Systems," in 2024 IEEE Power and Energy Society General Meeting (PESGM), Seattle, WA, 2024.
