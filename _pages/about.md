@@ -30,6 +30,7 @@ Hi! I am a first-year Ph.D. student in the Department of Electrical and Computer
 - G. Lin, B. Hong, and **X. Fu**, "Power Supply Arm Protection Scheme of High-speed Railway Based on Wide-area Current Differential", Railway Engineering Science, vol. 31, pp. 281-292, 2023.
 - G. Lin, **X. Fu**, W. Quan, and B. Hong, "Improved fault location method for AT traction power network based on EMU load test", Railway Engineering Science, vol. 30, pp. 532-540, 2022.
 - P. Liu, R. Mo, J. Yang, Y. Zhang, **X. Fu**, and P. Lan, "Medium-to-long term electricity consumption forecasting using deep hybrid neural networks", in 2019 IEEE 3rd International Electrical and Energy Conference (CIEEC), 2019, pp. 159-164.
+- J. Chen, G. Lin, X. Fu, Z, Wu. “Improved Scheme of Current Increment Protection Based on Current Characteristics of EMU Load”, Railway Standard Design, 2023. (in Chinese)
 
 ## Awards
 - National Scholarship for Postgraduates, 2022
