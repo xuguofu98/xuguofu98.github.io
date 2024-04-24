@@ -18,6 +18,7 @@ redirect_from:
 Hi! I am a first-year Ph.D. student in the Department of Electrical and Computer Engineering at Stony Brook University. Before that, I received an M.E. degree in Electrical Engineering from Southwest Jiaotong University in 2023 and a B.E. degree in Electrical Engineering and Automation from University of Shanghai for Science and Technology in 2020. Currently, my research interest mainly lies in machine learning for power systems.
 
 ## News and Updates
+- 04/2024 I have been invited to serve as a reviewer of Energy Reports.
 - 02/2024 Our paper "Learning-Based Uncertain Dynamic Verification of MMC-HVDC Offshore Wind Systems" has been accepted by the 2024 IEEE PES General Meeting.
 - 02/2024 I have been invited to serve as a reviewer of IEEE Journal of Oceanic Engineering.
 - 01/2024 I have been invited to serve as a reviewer of IEEE Transactions on Power Systems.
