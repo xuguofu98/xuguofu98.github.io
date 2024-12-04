@@ -28,7 +28,7 @@ Hi! I am a second-year Ph.D. student in the Department of Electrical and Compute
 - 08/2023 I joined the Power Lab at Stony Brook University as a Ph.D. student, advised by Prof. Yifan Zhou.
 
 ## Publications
--	**X. Fu**, and Y. Zhou, “Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics,” IEEE Transactions on Power Systems, accepted, 2024.
+-	**X. Fu**, and Y. Zhou, “Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics,” IEEE Transactions on Power Systems, 2024.
 -	**X. Fu**, and Y. Zhou, “Learning-Based Uncertain Dynamic Verification of MMC-HVDC Offshore Wind Systems,” in 2024 IEEE Power and Energy Society General Meeting (PESGM), Seattle, WA, 2024.
 -	**X. Fu**, G. Lin, and X. Yang, "Parameter identification for current–temperature relationship of contact wire under natural convection", International Journal of Electrical Power & Energy Systems, vol. 135, pp. 107554, 2022.
 -	Y. Zhou, and **X. Fu**, “Stochastic Dynamic Verification of Microgrids,” in 2024 IEEE Power and Energy Society General Meeting (PESGM), Seattle, WA, 2024.
