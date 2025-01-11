@@ -40,10 +40,10 @@ Hi! I am a second-year Ph.D. student in the Department of Electrical and Compute
 
 ## Service
 ### Reviewer:
-- **IEEE Transactions on Power Systems**
-- **IEEE Journal of Oceanic Engineering**
-- **IEEE ACCESS**
-- **Energy Reports**
+- IEEE Transactions on Power Systems
+- IEEE Journal of Oceanic Engineering
+- IEEE ACCESS
+- Energy Reports
 
 ## Award
 -	Outstanding Reviewer for IEEE Journal of Oceanic Engineering, 2024.
