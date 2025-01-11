@@ -18,7 +18,7 @@ redirect_from:
 Hi! I am a second-year Ph.D. student in the Department of Electrical and Computer Engineering at Stony Brook University. Before that, I received an M.E. degree in Electrical Engineering from Southwest Jiaotong University in 2023. Currently, my research interest mainly lies in machine learning for power systems.
 
 ## News and Updates
-- 01/2025 I am honored to be selected as <span style="color: red;">the 2024 Outstanding Reviewer for IEEE Journal of Oceanic Engineering</span>. Grateful for this recognition of my contributions!
+- 01/2025 I am honored to be selected as <span style="color: red;">**the 2024 Outstanding Reviewer for IEEE Journal of Oceanic Engineering**</span>. Grateful for this recognition of my contributions!
 - 10/2024 Our paper "Learning-Based, Runtime Reachability Analysis of Microgrid Dynamics" has been accepted by IEEE Transactions on Power Systems.
 - 04/2024 I have been invited to serve as a reviewer of Energy Reports.
 - 02/2024 Our paper "Learning-Based Uncertain Dynamic Verification of MMC-HVDC Offshore Wind Systems" has been accepted by the 2024 IEEE PES General Meeting.
@@ -37,3 +37,10 @@ Hi! I am a second-year Ph.D. student in the Department of Electrical and Compute
 -	G. Lin, B. Hong, and **X. Fu**, “Power Supply Arm Protection Scheme of High-speed Railway Based on Wide-area Current Differential”, Railway Engineering Science, vol. 31, no. 1, pp. 281-292, 2023.
 -	G. Lin, **X. Fu**, W. Quan, and B. Hong, “Improved fault location method for AT traction power network based on EMU load test”, Railway Engineering Science, vol. 30, no. 4, pp. 532-540, 2022.
 -	P. Liu, R. Mo, J. Yang, Y. Zhang, **X. Fu**, and P. Lan, "Medium-to-long term electricity consumption forecasting using deep hybrid neural networks", in 2019 IEEE 3rd International Electrical and Energy Conference (CIEEC), 2019, pp. 159-164.
+
+## Service
+**Reviewer**: IEEE Transactions on Power Systems; IEEE Journal of Oceanic Engineering; IEEE ACCESS; Energy Reports.
+
+## Award
+Outstanding Reviewer for IEEE Journal of Oceanic Engineering, 2024.
+National Scholarship, 2022.
