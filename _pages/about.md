@@ -39,7 +39,7 @@ Hi! I am a second-year Ph.D. student in the Department of Electrical and Compute
 -	P. Liu, R. Mo, J. Yang, Y. Zhang, **X. Fu**, and P. Lan, "Medium-to-long term electricity consumption forecasting using deep hybrid neural networks", in 2019 IEEE 3rd International Electrical and Energy Conference (CIEEC), 2019, pp. 159-164.
 
 ## Service
-- 📄 **Reviewer**  
+- **Reviewer**  
   - IEEE Transactions on Power Systems  
   - IEEE Journal of Oceanic Engineering  
   - IEEE ACCESS  
