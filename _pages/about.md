@@ -15,7 +15,7 @@ redirect_from:
 </style>
 
 ## Biography
-Hi! I am a second-year Ph.D. student in the Department of Electrical and Computer Engineering at Stony Brook University. Before that, I received an M.E. degree in Electrical Engineering from Southwest Jiaotong University in 2023. Currently, my research interest mainly lies in machine learning for power systems.
+Hi! I am a second-year Ph.D. student in the Department of Electrical and Computer Engineering at Stony Brook University. Before that, I received an M.S. degree in Electrical Engineering from Southwest Jiaotong University in 2023. My research focuses on machine learning in power systems, particularly for microgrid modeling, resilience enhancement, and dynamic behavior verification.
 
 ## News and Updates
 - 01/2025 I am honored to be selected as the <span style="color: red;">**2024 Outstanding Reviewer for IEEE Journal of Oceanic Engineering**</span>. Grateful for this recognition of my contributions!
